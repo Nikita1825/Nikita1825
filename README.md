@@ -37,6 +37,11 @@ I am a junior front-end developer. My main skills that I use in my work are html
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
                     </a>
+                    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
                     </p>### Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/Nikita1825"><img src="https://github-readme-stats.vercel.app/api?username=Nikita1825&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="Nikita1825's GitHub stats" /></a><a
                       href="http://www.github.com/Nikita1825"><img
